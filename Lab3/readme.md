@@ -1,7 +1,7 @@
 # Lab3
 
-![github actions](https://prnt.sc/IRL3MwejnaVb)
-![game](https://prnt.sc/5EPBOAPFOba3)
+![Github Actions](ga.png)
+![game](game.png)
 
 ## How to run
 
